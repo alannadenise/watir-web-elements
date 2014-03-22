@@ -1,6 +1,6 @@
 require 'watir-webdriver'
 
-#testing out watir element datepicker
+#testing out watir element jquery datepicker 
 
 b = Watir::Browser.new 
 b.goto "http://jqueryui.com/resources/demos/datepicker/default.html"
@@ -19,4 +19,3 @@ puts year
 
 b.link(:text, "14").click
 
-#b.screenshot.save 'testscreenshot.png'
