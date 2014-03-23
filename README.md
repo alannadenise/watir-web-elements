@@ -30,5 +30,5 @@ sudo bundle install
 Run script:
 
 ```
-ruby elements-datepicker.rb
+ruby elements-{selected script}.rb
 ```
