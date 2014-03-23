@@ -1,5 +1,7 @@
 # watir-web-elements
 
+Example Watir automation of web elements
+
 ## Requirements
 
 * ruby 2
