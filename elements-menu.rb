@@ -10,4 +10,3 @@ b.a(:id => 'ui-id-5').hover
 b.a(:id => 'ui-id-10').wait_until_present
 b.a(:id => 'ui-id-10').click
 
-

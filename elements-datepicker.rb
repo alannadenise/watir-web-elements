@@ -16,4 +16,3 @@ end
 puts month
 puts year
 b.link(:text, "14").click
-
