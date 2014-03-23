@@ -3,6 +3,7 @@
 ## Requirements
 
 * ruby 2
+* Firefox
 
 ## Quick start
 
